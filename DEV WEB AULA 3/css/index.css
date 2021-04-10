@@ -1,0 +1,16 @@
+#Menu ul{
+    display: inline;
+    position: fixed;
+}
+
+#menu ul li{
+    display: inline;
+}
+
+#corpo section{
+    padding-top: 10px ;
+}
+
+#corpo section h1{
+    color: blue;
+}
